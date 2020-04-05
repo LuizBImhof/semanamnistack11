@@ -17,6 +17,7 @@ input, button, textarea {
 }
 button{
     cursor: pointer;
+    
 }
 
 form input{
@@ -45,7 +46,7 @@ form textarea{
     background: #E02041;
     border: 0;
     border-radius: 8px;
-    content: #fff;
+    color: #f0f0f5;
     font-weight: 700;
     margin-top: 16px;
     display: inline-block;
